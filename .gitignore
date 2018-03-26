@@ -1,0 +1,16 @@
+
+.DS_Store
+*.pbxproj
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+*.plist
+*.hmap
+Build/Intermediates/Algo2018.build/Debug/Algo2018.build/dgph
+Build/Intermediates/Algo2018.build/Debug/Algo2018.build/dgph~
+Build/Intermediates/Algo2018.build/Debug/Algo2018.build/Objects-normal/x86_64/Algo2018.LinkFileList
+*.dat
+*.d
+*.dia
+*.o
+Build/Products/Debug/Algo2018
